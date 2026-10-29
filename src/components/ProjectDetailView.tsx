@@ -42,7 +42,7 @@ export default function ProjectDetailView({ project }: ProjectDetailViewProps) {
                 <Icons.ExternalLink size={16} />
               </a>
             )}
-            {project.githubUrl && project.category !== "Backend" && (
+            {project.githubUrl && (
               <a
                 href={project.githubUrl}
                 target="_blank"

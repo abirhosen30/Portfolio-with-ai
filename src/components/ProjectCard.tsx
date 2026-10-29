@@ -68,7 +68,7 @@ export default function ProjectCard({ project }: ProjectCardProps) {
                 <Icons.ExternalLink size={18} />
               </a>
             )}
-            {project.githubUrl && project.category !== "Backend" && (
+            {project.githubUrl && (
               <a
                 href={project.githubUrl}
                 target="_blank"
