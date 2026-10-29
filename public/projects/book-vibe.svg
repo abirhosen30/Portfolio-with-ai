@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" fill="none">
+  <rect width="800" height="450" rx="20" fill="#10182B"/>
+  <rect x="28" y="28" width="744" height="394" rx="16" fill="#17243B"/>
+  <path d="M28 44a16 16 0 0 1 16-16h712a16 16 0 0 1 16 16v48H28V44Z" fill="#1C2C47"/>
+  <circle cx="56" cy="58" r="7" fill="#29C99A"/>
+  <text x="76" y="64" fill="#E2E8F0" font-family="Arial,sans-serif" font-size="17" font-weight="700">Book Vibe</text>
+  <text x="604" y="63" fill="#A7B2C5" font-family="Arial,sans-serif" font-size="12">Discover · My Books</text>
+  <text x="56" y="137" fill="#F8FAFC" font-family="Arial,sans-serif" font-size="25" font-weight="700">Your next favorite read</text>
+  <text x="56" y="162" fill="#A7B2C5" font-family="Arial,sans-serif" font-size="13">Find a story, save it for later, and keep your reading on track.</text>
+  <rect x="56" y="189" width="688" height="191" rx="12" fill="#20334D"/>
+  <text x="80" y="222" fill="#E2E8F0" font-family="Arial,sans-serif" font-size="15" font-weight="700">Popular books</text>
+  <rect x="80" y="243" width="104" height="116" rx="5" fill="#D8795A"/>
+  <rect x="188" y="243" width="104" height="116" rx="5" fill="#3E8290"/>
+  <rect x="296" y="243" width="104" height="116" rx="5" fill="#B99554"/>
+  <rect x="404" y="243" width="104" height="116" rx="5" fill="#7568A5"/>
+  <rect x="512" y="243" width="104" height="116" rx="5" fill="#56795F"/>
+  <rect x="620" y="243" width="104" height="116" rx="5" fill="#A45E72"/>
+  <path d="M91 253v96M199 253v96M307 253v96M415 253v96M523 253v96M631 253v96" stroke="#F8FAFC" stroke-opacity=".3"/>
+  <text x="100" y="294" fill="#FFF7ED" font-family="Georgia,serif" font-size="14" font-weight="700">THE</text>
+  <text x="100" y="313" fill="#FFF7ED" font-family="Georgia,serif" font-size="14" font-weight="700">GARDEN</text>
+  <text x="211" y="297" fill="#ECFEFF" font-family="Georgia,serif" font-size="13" font-weight="700">OCEAN</text>
+  <text x="211" y="317" fill="#ECFEFF" font-family="Georgia,serif" font-size="13" font-weight="700">STORIES</text>
+  <text x="318" y="297" fill="#FFFBEB" font-family="Georgia,serif" font-size="13" font-weight="700">WILD</text>
+  <text x="318" y="317" fill="#FFFBEB" font-family="Georgia,serif" font-size="13" font-weight="700">PATHS</text>
+  <text x="428" y="297" fill="#F5F3FF" font-family="Georgia,serif" font-size="13" font-weight="700">NIGHT</text>
+  <text x="428" y="317" fill="#F5F3FF" font-family="Georgia,serif" font-size="13" font-weight="700">SKY</text>
+  <text x="535" y="297" fill="#F0FDF4" font-family="Georgia,serif" font-size="13" font-weight="700">THE</text>
+  <text x="535" y="317" fill="#F0FDF4" font-family="Georgia,serif" font-size="13" font-weight="700">LONG WAY</text>
+  <text x="644" y="297" fill="#FFF1F2" font-family="Georgia,serif" font-size="13" font-weight="700">SMALL</text>
+  <text x="644" y="317" fill="#FFF1F2" font-family="Georgia,serif" font-size="13" font-weight="700">WONDERS</text>
+</svg>

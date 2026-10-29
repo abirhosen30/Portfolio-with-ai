@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" fill="none">
+  <rect width="800" height="450" rx="20" fill="#10182B"/>
+  <rect x="28" y="28" width="744" height="394" rx="16" fill="#17243B"/>
+  <path d="M28 44a16 16 0 0 1 16-16h712a16 16 0 0 1 16 16v48H28V44Z" fill="#1C2C47"/>
+  <circle cx="56" cy="58" r="7" fill="#29C99A"/>
+  <text x="76" y="64" fill="#E2E8F0" font-family="Arial,sans-serif" font-size="17" font-weight="700">Bangla News 24</text>
+  <text x="616" y="63" fill="#A7B2C5" font-family="Arial,sans-serif" font-size="12">Latest · Bangladesh</text>
+  <rect x="56" y="111" width="688" height="43" rx="8" fill="#20334D"/>
+  <text x="77" y="138" fill="#29C99A" font-family="Arial,sans-serif" font-size="12" font-weight="700">ALL NEWS</text>
+  <text x="184" y="138" fill="#A7B2C5" font-family="Arial,sans-serif" font-size="12">NATIONAL</text>
+  <text x="286" y="138" fill="#A7B2C5" font-family="Arial,sans-serif" font-size="12">WORLD</text>
+  <text x="365" y="138" fill="#A7B2C5" font-family="Arial,sans-serif" font-size="12">BUSINESS</text>
+  <rect x="56" y="171" width="397" height="211" rx="10" fill="#253952"/>
+  <rect x="70" y="185" width="369" height="116" rx="7" fill="#245C5B"/>
+  <path d="M70 274 154 225l57 30 55-46 74 40 56-23 43 32v43H70Z" fill="#32806D"/>
+  <circle cx="359" cy="219" r="16" fill="#E7C77B"/>
+  <rect x="70" y="316" width="80" height="18" rx="9" fill="#29C99A" fill-opacity=".16"/>
+  <text x="81" y="329" fill="#29C99A" font-family="Arial,sans-serif" font-size="10" font-weight="700">BANGLADESH</text>
+  <text x="70" y="355" fill="#F8FAFC" font-family="Arial,sans-serif" font-size="16" font-weight="700">Top stories, all in one place</text>
+  <text x="70" y="375" fill="#A7B2C5" font-family="Arial,sans-serif" font-size="11">Latest headlines and updates</text>
+  <rect x="471" y="171" width="273" height="99" rx="10" fill="#20334D"/>
+  <rect x="483" y="183" width="81" height="75" rx="6" fill="#695D52"/>
+  <path d="m483 247 26-28 17 13 14-18 24 20v24h-81Z" fill="#9D8565"/>
+  <text x="578" y="204" fill="#29C99A" font-family="Arial,sans-serif" font-size="10" font-weight="700">LATEST</text>
+  <text x="578" y="226" fill="#E2E8F0" font-family="Arial,sans-serif" font-size="12" font-weight="700">Stories from around</text>
+  <text x="578" y="243" fill="#E2E8F0" font-family="Arial,sans-serif" font-size="12" font-weight="700">the country</text>
+  <rect x="471" y="283" width="273" height="99" rx="10" fill="#20334D"/>
+  <rect x="483" y="295" width="81" height="75" rx="6" fill="#4B6577"/>
+  <path d="m483 357 25-26 21 14 17-22 18 15v32h-81Z" fill="#7B9BA0"/>
+  <text x="578" y="316" fill="#29C99A" font-family="Arial,sans-serif" font-size="10" font-weight="700">IN FOCUS</text>
+  <text x="578" y="338" fill="#E2E8F0" font-family="Arial,sans-serif" font-size="12" font-weight="700">Read the latest</text>
+  <text x="578" y="355" fill="#E2E8F0" font-family="Arial,sans-serif" font-size="12" font-weight="700">developments</text>
+</svg>

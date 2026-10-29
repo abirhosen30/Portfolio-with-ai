@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" fill="none">
+  <rect width="800" height="450" rx="20" fill="#10182B"/>
+  <rect x="28" y="28" width="744" height="394" rx="16" fill="#17243B"/>
+  <path d="M28 44a16 16 0 0 1 16-16h712a16 16 0 0 1 16 16v48H28V44Z" fill="#1C2C47"/>
+  <circle cx="56" cy="58" r="7" fill="#29C99A"/>
+  <text x="76" y="64" fill="#E2E8F0" font-family="Arial,sans-serif" font-size="17" font-weight="700">Bazar Dor</text>
+  <rect x="555" y="46" width="184" height="25" rx="12" fill="#263951"/>
+  <text x="579" y="63" fill="#A7B2C5" font-family="Arial,sans-serif" font-size="11">Search products...</text>
+  <text x="56" y="132" fill="#F8FAFC" font-family="Arial,sans-serif" font-size="25" font-weight="700">Today's market prices</text>
+  <text x="56" y="157" fill="#A7B2C5" font-family="Arial,sans-serif" font-size="13">Compare everyday essentials across local markets.</text>
+  <rect x="56" y="185" width="214" height="196" rx="12" fill="#20334D"/>
+  <rect x="72" y="201" width="182" height="91" rx="8" fill="#2B694E"/>
+  <circle cx="163" cy="244" r="31" fill="#E6B94F"/>
+  <path d="M162 210c4-12 15-15 24-12-5 10-13 15-24 12Z" fill="#76C17A"/>
+  <text x="74" y="321" fill="#E2E8F0" font-family="Arial,sans-serif" font-size="16" font-weight="700">Fresh produce</text>
+  <text x="74" y="350" fill="#A7B2C5" font-family="Arial,sans-serif" font-size="12">Tomatoes · per kg</text>
+  <text x="74" y="371" fill="#29C99A" font-family="Arial,sans-serif" font-size="14" font-weight="700">৳ 45 – 60</text>
+  <rect x="290" y="185" width="450" height="196" rx="12" fill="#20334D"/>
+  <text x="314" y="218" fill="#E2E8F0" font-family="Arial,sans-serif" font-size="15" font-weight="700">Price comparison</text>
+  <text x="314" y="250" fill="#A7B2C5" font-family="Arial,sans-serif" font-size="12">Market</text>
+  <text x="603" y="250" fill="#A7B2C5" font-family="Arial,sans-serif" font-size="12">Price / kg</text>
+  <path d="M314 258h402M314 298h402M314 338h402M314 378h402" stroke="#354860"/>
+  <text x="314" y="284" fill="#E2E8F0" font-family="Arial,sans-serif" font-size="13">Karwan Bazar</text>
+  <text x="625" y="284" fill="#29C99A" font-family="Arial,sans-serif" font-size="13" font-weight="700">৳ 45</text>
+  <text x="314" y="324" fill="#E2E8F0" font-family="Arial,sans-serif" font-size="13">Mirpur Market</text>
+  <text x="625" y="324" fill="#29C99A" font-family="Arial,sans-serif" font-size="13" font-weight="700">৳ 52</text>
+  <text x="314" y="364" fill="#E2E8F0" font-family="Arial,sans-serif" font-size="13">Uttara Market</text>
+  <text x="625" y="364" fill="#29C99A" font-family="Arial,sans-serif" font-size="13" font-weight="700">৳ 60</text>
+</svg>
