@@ -53,7 +53,7 @@ The site brings together an introduction, background, categorized skills, educat
 ### Install and run locally
 
 ```bash
-git clone https://github.com/abirhosen30/Portfolio-with-AI.git
+git clone https://github.com/abirhosen30/Portfolio-with-ai.git
 cd my-portfolio
 npm install
 npm run dev
