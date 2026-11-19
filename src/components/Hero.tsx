@@ -42,7 +42,7 @@ export default function Hero() {
             </a>
             <a
               href="/resume.pdf"
-              download
+              download="Abir_Hosen_Resume.pdf"
               className="hero-secondary-action inline-flex cursor-pointer items-center gap-2 rounded-md px-5 py-3 text-sm font-semibold transition-colors"
             >
               <Icons.Download size={16} />
