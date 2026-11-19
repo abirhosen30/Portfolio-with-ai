@@ -18,6 +18,46 @@ export interface Project {
 
 export const projectsData: Project[] = [
   {
+    id: "studio-space",
+    title: "Studio Space",
+    image: "/projects/studio-space.png",
+    tagline: "Discover, book, and manage professional photography, film, podcast, and music studios.",
+    category: "Full Stack",
+    overview:
+      "A responsive studio marketplace with secure authentication and production-ready booking information.",
+    fullDescription:
+      "Studio Space is a modern Next.js App Router platform for discovering and booking specialized creative studios. It presents detailed spaces for photography, cinema, podcasting, music, and fabrication, while providing a responsive, accessible experience with secure Better Auth authentication and MongoDB persistence.",
+    stack: [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Tailwind CSS",
+      "shadcn/ui",
+      "Better Auth",
+      "MongoDB",
+      "Recharts",
+    ],
+    challenges: [
+      "Presenting complex studio amenities, hardware lists, and booking requirements without overwhelming visitors.",
+      "Building a consistent responsive and accessible interface across a large content-rich marketplace.",
+      "Integrating secure authentication with MongoDB-backed persistence.",
+    ],
+    futurePlans: [
+      "Add real-time availability and conflict-free reservation scheduling.",
+      "Expand host workflows with studio management, payouts, and booking analytics.",
+      "Integrate reviews, booking history, and production-team collaboration tools.",
+    ],
+    githubUrl: "https://github.com/abirhosen30/studio-space-client",
+    liveUrl: "https://studio-space-client-two.vercel.app",
+    keyFeatures: [
+      "Browse studios by photography, film, podcast, music, and fabrication specialties.",
+      "Explore detailed studio amenities, technical specifications, and guaranteed services.",
+      "Sign in securely with Better Auth and MongoDB-backed authentication.",
+      "Use a polished, responsive interface built with Next.js, Tailwind CSS, and shadcn/ui.",
+      "Discover spaces through filtering and an engineered three-step booking workflow.",
+    ],
+  },
+  {
     id: "bazar-dor",
     title: "Bazar Dor",
     image: "/projects/bazar-dor.svg",
